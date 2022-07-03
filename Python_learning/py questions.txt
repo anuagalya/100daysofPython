@@ -1,0 +1,98 @@
+'''
+1. take input from user cost price and selling price and find if its profit/loss or no profit no loss
+along with amounts of profit/loss
+hint. use if elif else kind of loop
+
+2. take input from user base and height of right angle triangle and find hypoteneous of triangle
+3. take input principle, rate and time from user and find simple interest
+4. take input from user distance and speed and find time of travel
+5. take input from user length and breadth of rectangle and find area and perimeter
+6. take input from user and print square root and cube root upto 3 decimal places
+7. take input from user any number and find factorial of a number (hint use math library)
+
+
+0.take input from user first name and last name and concatenate it to full name
+1. count number of upper case letters in full name
+2. count number of lower case letters in full name
+3. count number of special chars in full name
+4. count number of spaces in full name
+5. count number of digits in full name
+6. find middle element of full name. if number of elements in full name is odd, print one middle element
+   if number of elements are even print 2 middle elements
+7. count vowels in string. vowels can be in upper or lower case
+8. print ASCII value of char which is highest
+9. print ASCII value of char which is lowest
+
+
+
+"""write a function to take input cost price and selling price and return to main
+in another function, find if its profit/loss / no profit no loss along with amounts
+print  profit/loss / no profit no loss along with amounts in main and not in any function
+ """
+ 
+ """take input from user first name and last name and concatenate to full name
+in another function count all upper letters and lower letters in full name and return to main
+print ans there"""
+
+'''
+write a guesing game program
+take input 
+'''
+write a guesing game program
+take input from user any number. if number is between 1 and 21 user wins the game
+user should get max 3 chance to enter right number. if all attempts fails print failure
+at any point of time user enters right number print success
+DO NOT PRINT OR RETURN ANYTHING FROM THIS FUNCTION
+FINAL SUCCESS/FAILURE SHOULD BE PRINTED FROM MAIN
+
+
+'''in a function take input from user call duration. user can enter
+10 min or 10 minutes or 8 hours or 6 hr or 10 sec or 10 seconds or 10 SEC in any case 
+in another function find the bill of customer if billing rate is 0.1 Rs/Second'''
+try solve above problem
+
+
+When will .pyc file gets generated? and where will it get stored?
+when we import a package, will it import it as .py file or as a package?
+How to build a package in python
+python datatype
+various ways to insert values into list
+various functions of string
+
+'''
+places = ['Delhi', 'mumbai', 'chennai', 'Jaipur']
+attractions = ['Red fort','Gateway of India','Marina Beach','Ameer Fort']
+ 
+1. print these messages
+ 
+Delhi has an attraction Red Fort
+mumbai has an attraction Gateway of India
+chennai has an attraction Marina Beach
+Jaipur has an attraction Ameer Fort
+ 
+
+2. take input from the user any place and print its attraction. Search of place should be 
+case insensitive. if user enters CHENNAI - we should get Marina Beach.
+user should get max 3 chance 
+take marks of student one by one till user enters -999 and store the marks in list
+1. find min marks
+2. find max marks
+3. find standard deviation in marks
+4. find variance in marks
+5. find aggregate percentage
+6. find all even marks and store them in a list even_marks
+7. find all odd marks and store them in a list odd_marks
+8. sort the marks in descending order
+9. find the median from marks list
+10. find the mode in marks list
+11. if the total number of marks are even print "success" else print 
+12. find the multiplication of marks with each other eg, if marks are [2,3,4]
+    we should ge 2*3*4 = 24
+'''
+create a dictionary where emp id is key and name is value
+keep on taking input from user till user enters -999 for emp id
+once dictionary is created ask user any emp id and print name of employee. if emp id not found print not found
+ask user any name and create list of all employee ids having that name. search of name should be case insensitive
+'''
+
+
